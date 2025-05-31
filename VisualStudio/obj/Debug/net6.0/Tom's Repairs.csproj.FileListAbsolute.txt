@@ -1,0 +1,8 @@
+D:\Modding\Tom's Repairs\bin\Debug\net6.0\Tom's Repairs.deps.json
+D:\Modding\Tom's Repairs\bin\Debug\net6.0\Tom's Repairs.dll
+D:\Modding\Tom's Repairs\obj\Debug\net6.0\Tom's Repairs.csproj.AssemblyReference.cache
+D:\Modding\Tom's Repairs\obj\Debug\net6.0\Tom's Repairs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Modding\Tom's Repairs\obj\Debug\net6.0\Tom's Repairs.csproj.CoreCompileInputs.cache
+D:\Modding\Tom's Repairs\obj\Debug\net6.0\Tom's Repairs.dll
+D:\Modding\Tom's Repairs\obj\Debug\net6.0\refint\Tom's Repairs.dll
+D:\Modding\Tom's Repairs\obj\Debug\net6.0\ref\Tom's Repairs.dll

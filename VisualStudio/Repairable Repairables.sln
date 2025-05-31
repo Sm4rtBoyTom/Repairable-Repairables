@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36127.28 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repairable Repairables", "Repairable Repairables.csproj", "{19644B81-7CCF-0111-2EE2-96D23BF92256}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19644B81-7CCF-0111-2EE2-96D23BF92256}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19644B81-7CCF-0111-2EE2-96D23BF92256}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19644B81-7CCF-0111-2EE2-96D23BF92256}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19644B81-7CCF-0111-2EE2-96D23BF92256}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E9DB993-BDFD-4ACB-8E96-2B93354B94C0}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+D:\Modding\Tom's Repairs\bin\Debug\net6.0\Repairable Repairables.deps.json
+D:\Modding\Tom's Repairs\bin\Debug\net6.0\Repairable Repairables.dll
+D:\Modding\Tom's Repairs\obj\Debug\net6.0\Repairable Repairables.csproj.AssemblyReference.cache
+D:\Modding\Tom's Repairs\obj\Debug\net6.0\Repairable Repairables.GeneratedMSBuildEditorConfig.editorconfig
+D:\Modding\Tom's Repairs\obj\Debug\net6.0\Repairable Repairables.csproj.CoreCompileInputs.cache
+D:\Modding\Tom's Repairs\obj\Debug\net6.0\Repairable Repairables.dll
+D:\Modding\Tom's Repairs\obj\Debug\net6.0\refint\Repairable Repairables.dll
+D:\Modding\Tom's Repairs\obj\Debug\net6.0\ref\Repairable Repairables.dll
+D:\Modding\Repairable Repairables\bin\Debug\net6.0\Repairable Repairables.deps.json
+D:\Modding\Repairable Repairables\bin\Debug\net6.0\Repairable Repairables.dll
+D:\Modding\Repairable Repairables\obj\Debug\net6.0\Repairable Repairables.csproj.AssemblyReference.cache
+D:\Modding\Repairable Repairables\obj\Debug\net6.0\Repairable Repairables.GeneratedMSBuildEditorConfig.editorconfig
+D:\Modding\Repairable Repairables\obj\Debug\net6.0\Repairable Repairables.csproj.CoreCompileInputs.cache
+D:\Modding\Repairable Repairables\obj\Debug\net6.0\Repairable Repairables.dll
+D:\Modding\Repairable Repairables\obj\Debug\net6.0\refint\Repairable Repairables.dll
+D:\Modding\Repairable Repairables\obj\Debug\net6.0\ref\Repairable Repairables.dll
