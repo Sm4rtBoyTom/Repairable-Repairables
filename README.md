@@ -1,3 +1,4 @@
+![Thumb_RepairableRepairables](https://github.com/user-attachments/assets/81e6099e-f247-4dd5-91a8-3d97d758a039)
 # Repairable Repairables
 
 Repairable Repairables is a mod for [The Long Dark](https://www.thelongdark.com). 
