@@ -1,0 +1,8 @@
+D:\Modding\AmmoTools\bin\Debug\net6.0\AmmoTools.deps.json
+D:\Modding\AmmoTools\bin\Debug\net6.0\AmmoTools.dll
+D:\Modding\AmmoTools\obj\Debug\net6.0\AmmoTools.csproj.AssemblyReference.cache
+D:\Modding\AmmoTools\obj\Debug\net6.0\AmmoTools.GeneratedMSBuildEditorConfig.editorconfig
+D:\Modding\AmmoTools\obj\Debug\net6.0\AmmoTools.csproj.CoreCompileInputs.cache
+D:\Modding\AmmoTools\obj\Debug\net6.0\AmmoTools.dll
+D:\Modding\AmmoTools\obj\Debug\net6.0\refint\AmmoTools.dll
+D:\Modding\AmmoTools\obj\Debug\net6.0\ref\AmmoTools.dll
